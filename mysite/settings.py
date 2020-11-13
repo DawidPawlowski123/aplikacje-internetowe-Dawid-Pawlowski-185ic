@@ -128,18 +128,13 @@ USE_TZ = False
 
 STATIC_URL = '/static/'
 
-import dj_database_url
-DATABASES['default'] =  dj_database_url.config()
 
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATIC_URL = '/static/'
 
-ALLOWED_HOSTS = ['*']
+# Extra places for collectstatic to find static files.
+STATICFILES_DIRS = (
+    os.path.join(BASE_DIR, 'static'),
+)
 
-STATIC_ROOT = 'staticfiles'
-
-DEBUG = False
-
-try:
-    from .local_settings import *
-except ImportError:
-    pass
+django_heroku.settings(locals())
