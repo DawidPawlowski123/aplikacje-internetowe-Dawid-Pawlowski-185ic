@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'zwcd3_=1b8@8w37gpjopi_&109d8!pteov^q@g1-rnx+#&92r1'
 
-STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
