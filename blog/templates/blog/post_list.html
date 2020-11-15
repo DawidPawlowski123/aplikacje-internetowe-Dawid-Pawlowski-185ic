@@ -1,3 +1,4 @@
+{% load static %}
 <html>
 <head>
     <title>Dawid pawlowski blog</title>
@@ -6,10 +7,20 @@
     <div>
         <h1><a href="">Dawid Pawlowski Blozzg</a></h1>asdasd
     </div>
- 
+
     <div>
-        {{posts.title}}
+        % block content %}
+        {% for post in posty %}
+        <div>
+            <div>
+                <p>published: {{ post.published_date }}</p>
+            </div>
+            <h1>{{ post.title }}</h1>
+            <p>{{ post.text|linebreaksbr }}</p>
+        </div>
+        {% endfor %}
+        {% endblock %}
     </div>
-  
+
 </body>
 </html>
