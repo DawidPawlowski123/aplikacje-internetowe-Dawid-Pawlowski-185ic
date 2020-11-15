@@ -6,8 +6,11 @@
 <body>
     <div>
         <h1><a href="">Dawid Pawlowski Blozzg</a></h1>asdasd
+        <h1>{{ post.title }}</h1>
+        <p>{{ post.text|linebreaksbr }}</p>
     </div>
-
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.text|linebreaksbr }}</p>
     <div>
         {% block content %}
         {% for post in posty %}
