@@ -1,4 +1,4 @@
-{% load static %}
+﻿{% load static %}
 <html>
 <head>
     <meta charset="utf-8">
@@ -9,8 +9,11 @@
 </head>
 <body>
     <div class="p-3 mb-2 bg-secondary text-white">
-        <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus">qwe</span></a>
-        <h1><a href="">Dawid Pawlowski Blog</a></h1>
+        <h1><a href="{% url 'base' %}" >Dawid Pawlowski Blog</a></h1>
+    </div>
+    <div class="p-3 mb-2 bg-secondary text-white">
+        
+        <h2><a href="{% url 'post_new' %}">Stwórz posta</a></h2>
     </div>
     <div>
         <div class="p-3 mb-2 bg-secondary text-white">
