@@ -3,5 +3,5 @@ from django.shortcuts import render
 from django.utils import timezone
 
 def post_list(request):
-    posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('creation_date')
-    return render(request, 'blog/post_list.html', { 'posts': posts })
+    posts = Post.objects.filter(published_date__lte=timezone.now()).order_by('created_date')
+    return render(request, 'blog/post_list.html', { 'posts': posts})
