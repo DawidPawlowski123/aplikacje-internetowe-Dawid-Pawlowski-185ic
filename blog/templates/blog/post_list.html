@@ -7,20 +7,14 @@
     <div>
         <h1><a href="">Dawid Pawlowski Blozzg123</a></h1>asdasd
     </div>
-    <h1>{{ posts.title }}</h1>
-    <p>{{ posts.text|linebreaksbr }}</p>
     <div>
-        {% block content %}
-        {% for post in posty %}
+        {% for post in posts %}
         <div>
-            <div>
-                <p>published: {{ post.published_date }}</p>
-            </div>
-            <h1>{{ post.title }}</h1>
-            <p>{{ post.text|linebreaksbr }}</p>
+            <p>published: {{ post.published_date }}</p>
+            <h1><a href="">{{ post.title }}</a></h1>
+            <p>{{ post.text|linebreaks }}</p>
         </div>
         {% endfor %}
-        {% endblock %}
     </div>
 
 </body>
