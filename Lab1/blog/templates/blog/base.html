@@ -12,7 +12,14 @@
         <h1><a href="{% url 'base' %}" >Dawid Pawlowski Blog</a></h1>
     </div>
     <div class="p-3 mb-2 bg-secondary text-white">
-        
+        {% if user.is_authenticated %}
+        Witaj! {{ user.email }}!
+        {% else %}
+        <p>Nie jesteśzalogowany</p>
+        <a href="{% url 'login' %}">Zaloguj</a>
+        {% endif %}
+    </div>
+    <div class="p-3 mb-2 bg-secondary text-white">
         <h2><a href="{% url 'post_new' %}">Stwórz posta</a></h2>
     </div>
     <div>
