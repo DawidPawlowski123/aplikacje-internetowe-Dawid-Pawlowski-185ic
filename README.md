@@ -2,7 +2,7 @@
 
 # Autor Dawid Pawłowski
 
-# Lab2
+# Lab2 - folder accounts 
 
 # Adres strony : https://lab2apki.herokuapp.com/
 
