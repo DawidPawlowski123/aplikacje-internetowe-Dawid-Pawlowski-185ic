@@ -1,9 +1,0 @@
-myenv/
-env1/
-myvenv/
-__pycache__/
-*.pyc
-.idea/
-.vscode/
-node_modules/
-

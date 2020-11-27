@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\config",
+    "\\rejestracja",
     "\\sent_emails",
-    "\\templates",
     "\\templates\\registration"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\config\\settings.py",
   "PreviewInSolutionExplorer": false
 }
