@@ -1,7 +1,5 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
-# Autor Dawid Pawłowski
-
 # Lab4 - folder Lab4
 
 # Adres strony :
