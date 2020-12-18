@@ -1,8 +1,10 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
+# Lab6 - folder Lab4
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/1.7.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/2.7.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/3.7.png)
 # Lab4 - folder Lab4
-
-# Adres strony :
 
 # URL zdefinowane w mysite.urls
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/1.png)
