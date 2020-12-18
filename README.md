@@ -1,6 +1,23 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
-# Autor Dawid Pawłowski
+# Lab4 - folder Lab4
+
+# Adres strony :
+
+# URL zdefinowane w mysite.urls
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/1.png)
+
+# Panel administratora
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/2.png)
+
+# Api_auth logowanie
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/3.png)
+
+# Api rest_auth rejestracja
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/5.png)
+
+# Swagger
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/6.png)
 
 # Lab3 - folder Lab3
 
