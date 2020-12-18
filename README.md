@@ -1,8 +1,11 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
 # Lab6 - folder Lab4
+Logowanie 
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/1.7.png)
+Token
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/2.7.png)
+Tokeny w panelu admina
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/3.7.png)
 # Lab4 - folder Lab4
 
