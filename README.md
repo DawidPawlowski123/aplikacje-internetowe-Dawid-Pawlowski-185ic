@@ -8,7 +8,7 @@
 # Log in
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/login.png)
 
-# User list
+# Urls list
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/lista.png)
 
 # Status użytkowników
