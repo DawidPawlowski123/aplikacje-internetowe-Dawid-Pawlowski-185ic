@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\config",
-    "\\rejestracja",
-    "\\sent_emails",
-    "\\templates\\registration"
+    ""
   ],
-  "SelectedNode": "\\config\\settings.py",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+    <button>Rozpocznij test</button>
+
+    <script id="FindPrimes" type="javascript/worker">
+        self.onmessage = function (msg) {
+            var view = new Uint8Array(msg.data),
+                numPrimes = 0
+            for (var i = 0; i < view.length; i++) {
+                var primeCandidate = i + 2 // 2 is the smalles prime number
+                var result = isPrime(primeCandidate)
+                if (result) numPrimes++
+                view[i] = result
+            }
+            self.postMessage({
+                buffer: view.buffer,
+                numPrimes: numPrimes
+            })
+        }
+
+        function isPrime(candidate) {
+            for (var n = 2; n <= Math.floor(Math.sqrt(candidate)); n++) {
+                if (candidate % n === 0) return false
+            }
+            return true
+        }
+    </script>
+
+    <script>
+        document.querySelector('button').addEventListener('click', runTest)
+
+        function runTest() {
+            var buffer = new ArrayBuffer(1024 * 1024 * 20) // reserves 20 MB
+            var view = new Uint8Array(buffer) // view the buffer as bytes
+
+            var blob = new Blob([document.querySelector('#FindPrimes').textContent]);
+            blobURL = window.URL.createObjectURL(blob);
+
+            performance.mark('testStart')
+            var worker = new Worker(blobURL);
+            worker.onmessage = function (msg) {
+                performance.mark('testEnd')
+                performance.measure('runTest', 'testStart', 'testEnd')
+                var timeTaken = performance.getEntriesByName('runTest')[0].duration
+                view.set(new Uint8Array(buffer), 0)
+                alert(`Zakonczono. Znaleziono ${msg.data.numPrimes} pierwszych w czasie ${timeTaken} ms`)
+                console.log(msg.data.numPrimes, view)
+            }
+            worker.postMessage(buffer)
+        }
+    </script>
+</body>
+</html>
