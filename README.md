@@ -1,11 +1,32 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
+# Lab8
+
+# Sign up
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/signup.png)
+
+# Log in
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/login.png)
+
+# User list
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/lista.png)
+
+# Status użytkowników
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/zalogowani_urzytkownicy.png)
+
+# Worker nr.1
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/worker.png)
+
+# Worker nr.2
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8/example_channels/screny/worker2.png)
+
+
 # Lab6 - folder Lab4
-Logowanie 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/1.7.png)
-Token
+
+# Token
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/2.7.png)
-Tokeny w panelu admina
+
+# Tokeny w panelu admina
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab4/3.7.png)
 # Lab4 - folder Lab4
 
