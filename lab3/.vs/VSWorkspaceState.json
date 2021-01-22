@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\rejestracja",
+    "\\screens",
+    "\\sent_emails",
+    "\\staticfiles",
+    "\\templates"
   ],
+  "SelectedNode": "\\screens\\3.2.png",
   "PreviewInSolutionExplorer": false
 }
