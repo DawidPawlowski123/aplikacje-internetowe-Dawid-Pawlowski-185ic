@@ -1,5 +1,22 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
+# Lab9
+
+# Frontend react
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/frontend_strona_startowa.png)
+
+# Frontend dodawanie posta react
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/frontend_dodawanie_posta.png)
+
+# Aplikacja dostępne widoki
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/1.png)
+
+# Wszytkie posty
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/2.png)
+
+# Opublikowane posty
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/opublikowane posty.png)
+
 # Lab8
 
 # Sign up
