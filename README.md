@@ -15,7 +15,7 @@
 ![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/2.png)
 
 # Opublikowane posty
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/opublikowane posty.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab9/screny/opublikowane_posty.png)
 
 # Lab8
 
