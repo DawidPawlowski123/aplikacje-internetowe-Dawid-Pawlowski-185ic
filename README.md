@@ -5,14 +5,14 @@
 # Modyfikacje dodanie opcji potęgowania, modulo, pierwiastek 
 
 # Zmodyfikowany kalkulator
-[alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/1.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/1.png)
 
 # Zmiany pokazane za pomocą git diff 
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/git_diff_1.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/git_diff_2.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/git_diff_3.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/git_diff_4.png)
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab8p/screny/git_diff_5.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_diff_1.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_diff_2.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_diff_3.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_diff_4.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_diff_5.png)
 
 # Lab9
 
