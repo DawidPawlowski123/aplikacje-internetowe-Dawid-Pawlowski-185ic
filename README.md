@@ -1,5 +1,19 @@
 # aplikacje-internetowe-Dawid-Pawlowski-185ic
 
+# Lab8_PSW
+# Link do orginalnego kalkulatora https://github.com/ahfarmer/calculator
+# Modyfikacje dodanie opcji potęgowania, modulo, pierwiastek 
+
+# Zmodyfikowany kalkulator
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/1.png)
+
+# Zmiany pokazane za pomocą git diff 
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_dif_1.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_dif_2.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_dif_3.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_dif_4.png)
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/git_dif_5.png)
+
 # Lab9
 
 # Frontend react
