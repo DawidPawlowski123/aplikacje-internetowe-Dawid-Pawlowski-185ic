@@ -2,17 +2,17 @@
 
 # Lab10
 
-#Backend api
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/backendapi.png)
+# Backend api
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab10/screny/backendapi.png)
 
-#Frontend react
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/frontend.png)
+# Frontend react
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab10/screny/frontend.png)
 
-#Api root
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/apiroot.png)
+# Api root
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab10/screny/apiroot.png)
 
-#Lista todos
-![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/labp8/screny/listatodos.png)
+# Lista todos
+![alt text](https://github.com/DawidPawlowski123/aplikacje-internetowe-Dawid-Pawlowski-185ic/blob/main/lab10/screny/listatodos.png)
 
 # Lab8_PSW
 # Link do orginalnego kalkulatora https://github.com/ahfarmer/calculator
